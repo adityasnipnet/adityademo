@@ -1,2 +1,3 @@
 # adityademo
-this is my first git repo
+this is my first Git repo
+Author - Aditya Ekbote
